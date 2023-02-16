@@ -6,5 +6,7 @@ Based on the given users data related to their fitness activities perform the de
 We have 3 types of fitness machines/treadmill with pricess mentioned as below. We are trying to find map the machines to the customers
 
 KP281 : $1500
+
 KP481 : $1750
+
 KP781 : $2500 
